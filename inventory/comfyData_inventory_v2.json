@@ -1,0 +1,290 @@
+﻿{
+    "generated_at":  "2025-12-15T22:27:38",
+    "data_root":  "C:\\Ivan\\_StableDiffusion\\comfyData",
+    "discovered_dirs":  [
+                            ".venv",
+                            "custom_nodes",
+                            "input",
+                            "models",
+                            "models\\animatediff_models",
+                            "models\\animatediff_motion_lora",
+                            "models\\animatediff_video_formats",
+                            "models\\blip",
+                            "models\\checkpoints",
+                            "models\\clip",
+                            "models\\clip_vision",
+                            "models\\CogVideo",
+                            "models\\configs",
+                            "models\\controlnet",
+                            "models\\diffusers",
+                            "models\\diffusion_models",
+                            "models\\embeddings",
+                            "models\\gligen",
+                            "models\\hypernetworks",
+                            "models\\insightface",
+                            "models\\Joy_caption",
+                            "models\\layerstyle",
+                            "models\\liveportrait",
+                            "models\\LLM",
+                            "models\\loras",
+                            "models\\photomaker",
+                            "models\\style_models",
+                            "models\\text_encoders",
+                            "models\\unet",
+                            "models\\upscale_models",
+                            "models\\vae",
+                            "models\\vae_approx",
+                            "models\\xlabs",
+                            "output",
+                            "temp",
+                            "user"
+                        ],
+    "categories":  {
+                       "checkpoints":  {
+                                           "scanned_paths":  [
+                                                                 "models\\checkpoints"
+                                                             ],
+                                           "extensions":  [
+                                                              ".safetensors",
+                                                              ".ckpt"
+                                                          ],
+                                           "files":  [
+                                                         {
+                                                             "name":  "Realistic_Vision_V5.1_fp16-no-ema.safetensors",
+                                                             "relative_path":  "models\\checkpoints\\Realistic_Vision_V5.1_fp16-no-ema.safetensors",
+                                                             "size_mb":  2033.83,
+                                                             "modified":  "2025-11-22T15:53:18"
+                                                         }
+                                                     ]
+                                       },
+                       "loras":  {
+                                     "scanned_paths":  [
+                                                           "models\\loras"
+                                                       ],
+                                     "extensions":  [
+                                                        ".safetensors",
+                                                        ".pt"
+                                                    ],
+                                     "files":  [
+                                                   {
+                                                       "name":  "Kinomi Western Cartoon Style.safetensors",
+                                                       "relative_path":  "models\\loras\\Kinomi Western Cartoon Style.safetensors",
+                                                       "size_mb":  37.27,
+                                                       "modified":  "2025-12-01T03:28:43"
+                                                   }
+                                               ]
+                                 },
+                       "embeddings":  {
+                                          "scanned_paths":  [
+                                                                "models\\embeddings"
+                                                            ],
+                                          "extensions":  [
+                                                             ".pt",
+                                                             ".bin"
+                                                         ],
+                                          "files":  [
+                                                        {
+                                                            "name":  "FastNegativeV2.pt",
+                                                            "relative_path":  "models\\embeddings\\FastNegativeV2.pt",
+                                                            "size_mb":  0.2,
+                                                            "modified":  "2025-11-23T00:26:40"
+                                                        }
+                                                    ]
+                                      },
+                       "vae":  {
+                                   "scanned_paths":  [
+                                                         "models\\vae",
+                                                         "models\\VAE"
+                                                     ],
+                                   "extensions":  [
+                                                      ".safetensors",
+                                                      ".ckpt"
+                                                  ],
+                                   "files":  [
+                                                 {
+                                                     "name":  "ae.safetensors",
+                                                     "relative_path":  "models\\VAE\\ae.safetensors",
+                                                     "size_mb":  319.77,
+                                                     "modified":  "2025-12-15T00:42:56"
+                                                 }
+                                             ]
+                               },
+                       "controlnet":  {
+                                          "scanned_paths":  [
+                                                                "models\\controlnet",
+                                                                "models\\ControlNet"
+                                                            ],
+                                          "extensions":  [
+                                                             ".safetensors",
+                                                             ".pth"
+                                                         ],
+                                          "files":  [
+                                                        {
+                                                            "name":  "t2iadapter_canny_sd15v2.pth",
+                                                            "relative_path":  "models\\ControlNet\\t2iadapter_canny_sd15v2.pth",
+                                                            "size_mb":  293.75,
+                                                            "modified":  "2025-11-22T19:48:23"
+                                                        }
+                                                    ]
+                                      },
+                       "upscalers":  {
+                                         "scanned_paths":  [
+                                                               "models\\upscale_models"
+                                                           ],
+                                         "extensions":  [
+                                                            ".pth",
+                                                            ".onnx",
+                                                            ".safetensors"
+                                                        ],
+                                         "files":  [
+
+                                                   ]
+                                     }
+                   },
+    "summary":  {
+                    "checkpoints":  {
+                                        "count":  1,
+                                        "size_mb":  2033.83,
+                                        "scanned_paths":  [
+                                                              "models\\checkpoints"
+                                                          ]
+                                    },
+                    "loras":  {
+                                  "count":  1,
+                                  "size_mb":  37.27,
+                                  "scanned_paths":  [
+                                                        "models\\loras"
+                                                    ]
+                              },
+                    "embeddings":  {
+                                       "count":  1,
+                                       "size_mb":  0.2,
+                                       "scanned_paths":  [
+                                                             "models\\embeddings"
+                                                         ]
+                                   },
+                    "vae":  {
+                                "count":  1,
+                                "size_mb":  319.77,
+                                "scanned_paths":  [
+                                                      "models\\vae",
+                                                      "models\\VAE"
+                                                  ]
+                            },
+                    "controlnet":  {
+                                       "count":  1,
+                                       "size_mb":  293.75,
+                                       "scanned_paths":  [
+                                                             "models\\controlnet",
+                                                             "models\\ControlNet"
+                                                         ]
+                                   },
+                    "upscalers":  {
+                                      "count":  0,
+                                      "size_mb":  0,
+                                      "scanned_paths":  [
+                                                            "models\\upscale_models"
+                                                        ]
+                                  },
+                    "extension_histogram":  {
+                                                ".gitignore":  1,
+                                                ".lock":  1,
+                                                ".tag":  1,
+                                                ".cfg":  4,
+                                                ".h":  9290,
+                                                ".pth":  7,
+                                                ".py":  11753,
+                                                ".whl":  2,
+                                                ".pyd":  236,
+                                                ".typed":  68,
+                                                ".pyc":  4038,
+                                                ".pxd":  84,
+                                                ".pxi":  1,
+                                                ".pyx":  73,
+                                                ".hash":  8,
+                                                ".txt":  157,
+                                                ".pyi":  344,
+                                                ".mako":  9,
+                                                ".c":  8,
+                                                ".rst":  4,
+                                                ".dll":  87,
+                                                ".pem":  2,
+                                                ".md":  5098,
+                                                ".webp":  253,
+                                                ".jpg":  3,
+                                                ".json":  219,
+                                                ".template":  2,
+                                                ".js":  16,
+                                                ".css":  3,
+                                                ".mp3":  7,
+                                                ".apache":  4,
+                                                ".bsd":  4,
+                                                ".cpp":  56,
+                                                ".hpp":  79,
+                                                ".cmd":  1,
+                                                ".asm":  2,
+                                                ".obj":  2,
+                                                ".psf":  1,
+                                                ".yaml":  6,
+                                                ".markdown-it":  1,
+                                                ".bz2":  4,
+                                                ".a99":  2,
+                                                ".b99":  2,
+                                                ".png":  16,
+                                                ".gz":  1,
+                                                ".lib":  44,
+                                                ".ini":  5,
+                                                ".pkl":  2,
+                                                ".fits":  1,
+                                                ".csv":  30,
+                                                ".build":  5,
+                                                ".f90":  49,
+                                                ".f2py_f2cmap":  2,
+                                                ".f":  20,
+                                                ".pyf":  5,
+                                                ".mod":  1,
+                                                ".npy":  10,
+                                                ".npz":  22,
+                                                ".exe":  41,
+                                                ".zip":  1,
+                                                ".egg":  1,
+                                                ".lesser":  1,
+                                                ".toml":  7,
+                                                ".a":  116,
+                                                ".arff":  16,
+                                                ".mat":  110,
+                                                ".sav":  47,
+                                                ".nc":  3,
+                                                ".dat":  26,
+                                                ".wav":  22,
+                                                ".ani":  1,
+                                                ".tmpl":  2,
+                                                ".xml":  1,
+                                                ".html":  3,
+                                                ".g4":  2,
+                                                ".al":  16,
+                                                ".lark":  2,
+                                                ".xsl":  3,
+                                                ".cuh":  59,
+                                                ".cmake":  29,
+                                                ".mjs":  2,
+                                                ".thrift":  1,
+                                                ".ld":  1,
+                                                ".cu":  8,
+                                                ".bazel":  1,
+                                                ".bzl":  1,
+                                                ".in":  1,
+                                                ".sh":  1,
+                                                ".1":  2,
+                                                ".bat":  3,
+                                                ".csh":  1,
+                                                ".fish":  1,
+                                                ".nu":  1,
+                                                ".ps1":  1,
+                                                ".safetensors":  95,
+                                                ".pt":  4,
+                                                ".log":  2,
+                                                ".list":  1
+                                            }
+                }
+}
