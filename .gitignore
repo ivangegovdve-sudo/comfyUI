@@ -1,0 +1,23 @@
+﻿# Never track your model library or large binaries
+**/comfyData/
+**/models/
+**/checkpoints/
+**/loras/
+**/embeddings/
+**/vae/
+**/controlnet/
+**/upscale_models/
+
+# Never track ComfyUI Desktop installation binaries
+**/ComfyUI/
+**/*.exe
+**/*.dll
+**/*.asar
+**/*.pak
+**/resources/
+
+# Common junk
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
