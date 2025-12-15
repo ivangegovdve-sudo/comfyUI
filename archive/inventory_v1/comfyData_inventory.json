@@ -1,0 +1,22 @@
+﻿{
+    "generated_at":  "2025-12-15T22:20:27",
+    "data_root":  "C:\\Ivan\\_StableDiffusion\\comfyData",
+    "checkpoints":  {
+
+                    },
+    "loras":  {
+
+              },
+    "embeddings":  {
+
+                   },
+    "vae":  {
+
+            },
+    "controlnet":  {
+
+                   },
+    "upscalers":  {
+
+                  }
+}
