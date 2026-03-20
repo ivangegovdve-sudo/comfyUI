@@ -1,0 +1,75 @@
+﻿generated_at: 2025-12-15T22:27:38
+data_root: C:\Ivan\_StableDiffusion\comfyData
+
+discovered_dirs:
+  - .venv
+  - custom_nodes
+  - input
+  - models
+  - models\animatediff_models
+  - models\animatediff_motion_lora
+  - models\animatediff_video_formats
+  - models\blip
+  - models\checkpoints
+  - models\clip
+  - models\clip_vision
+  - models\CogVideo
+  - models\configs
+  - models\controlnet
+  - models\diffusers
+  - models\diffusion_models
+  - models\embeddings
+  - models\gligen
+  - models\hypernetworks
+  - models\insightface
+  - models\Joy_caption
+  - models\layerstyle
+  - models\liveportrait
+  - models\LLM
+  - models\loras
+  - models\photomaker
+  - models\style_models
+  - models\text_encoders
+  - models\unet
+  - models\upscale_models
+  - models\vae
+  - models\vae_approx
+  - models\xlabs
+  - output
+  - temp
+  - user
+
+category_summary:
+  - checkpoints: count=1, size_mb=2033.83, paths=[models\checkpoints]
+  - loras: count=1, size_mb=37.27, paths=[models\loras]
+  - embeddings: count=1, size_mb=0.2, paths=[models\embeddings]
+  - vae: count=1, size_mb=319.77, paths=[models\vae, models\VAE]
+  - controlnet: count=1, size_mb=293.75, paths=[models\controlnet, models\ControlNet]
+  - upscalers: count=0, size_mb=0, paths=[models\upscale_models]
+
+extension_histogram (top 25):
+  .py : 11753
+  .h : 9290
+  .md : 5098
+  .pyc : 4038
+  .pyi : 344
+  .webp : 253
+  .pyd : 236
+  .json : 219
+  .txt : 157
+  .a : 116
+  .mat : 110
+  .safetensors : 95
+  .dll : 87
+  .pxd : 84
+  .hpp : 79
+  .pyx : 73
+  .typed : 68
+  .cuh : 59
+  .cpp : 56
+  .f90 : 49
+  .sav : 47
+  .lib : 44
+  .exe : 41
+  .csv : 30
+  .cmake : 29

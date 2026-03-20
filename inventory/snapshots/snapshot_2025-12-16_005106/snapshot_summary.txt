@@ -1,0 +1,8 @@
+﻿snapshot_time = 2025-12-16_005106
+repo_root = C:\Ivan\_StableDiffusion\comfyUI_repo
+data_root = C:\Ivan\_StableDiffusion\comfyData
+snapshot_root = C:\Ivan\_StableDiffusion\comfyUI_repo\inventory\snapshots\snapshot_2025-12-16_005106
+models_summary = models_summary.txt
+workflows_summary = workflows_summary.txt
+custom_nodes_summary = custom_nodes_summary.txt
+manager_nodes_summary = manager_nodes_summary.txt

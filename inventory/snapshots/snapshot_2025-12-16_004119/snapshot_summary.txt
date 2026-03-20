@@ -1,0 +1,3 @@
+﻿snapshot_time = 2025-12-16_004119
+repo_root = C:\Ivan\_StableDiffusion\comfyUI_repo
+snapshot_root = C:\Ivan\_StableDiffusion\comfyUI_repo\inventory\snapshots\snapshot_2025-12-16_004119
